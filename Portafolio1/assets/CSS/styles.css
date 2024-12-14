@@ -1,0 +1,87 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+* .navbarnavbar-darkbg-darkfixed-top {
+    width: 50px;
+}
+
+.titulo {
+    margin-top: 5%;
+    margin-left: 5%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman';
+    font-size: 60px;
+}
+
+.imagenFondo {
+    background-size: contain;
+    background-image: url(https://cdn.pixabay.com/photo/2013/06/20/13/52/world-140304_1280.jpg);
+}
+
+.foto1,
+.foto2,
+.foto3 {
+    background-color: #0F1F52;
+    width: 18%;
+    border-radius: 10px;
+}
+
+.fotohtml {
+    background-color: #E96228;
+    width: 18%;
+    border-radius: 10px
+}
+
+.fotocss {
+    background-color: #2862E9;
+    width: 18%;
+    border-radius: 10px
+}
+
+.fotojs {
+    background-color: #ECDA1C;
+    width: 18%;
+    border-radius: 10px
+}
+
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    color: white;
+}
+
+.fa-linkedin {
+    color: white;
+}
+
+.fa-google {
+    color: white;
+}
+
+.fa-instagram {
+    color: white;
+}
